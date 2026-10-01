@@ -1,33 +1,38 @@
+
 <div align="center">
 
 # REZONIX
 
-**Software · Security · Systems**
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=9B7BFF&center=true&vCenter=true&width=460&lines=Software+%C2%B7+Security+%C2%B7+Systems;Curious+mind.+Builder%27s+mindset.;Understand+it.+Build+it.+Make+it+better." alt="Animated introduction" />
 
-*Learn deeply. Build quietly. Improve constantly.*
+<br/>
+
+**Minimal noise. Meaningful work.**
 
 </div>
 
 ---
 
-### About
+### `whoami`
 
-I'm Reza — a developer in progress, exploring software development, Android, web technologies, AI, and application security.
+I'm Reza — a developer driven by curiosity and a desire to understand how things work beneath the surface.
 
-### Focus
+I explore software development, Android, web technologies, AI, and application security. I enjoy breaking down complex ideas, connecting the pieces, and turning what I learn into real projects.
 
-`Android` · `Web` · `Python` · `JavaScript` · `PHP` · `AI` · `App Security`
+### `current_focus`
 
----
+`Android` · `JavaScript` · `PHP` · `Python` · `AI` · `App Security`
 
-### فارسی
+### `principle`
 
-رضا هستم؛ توسعه‌دهنده‌ای در مسیر یادگیری که روی توسعه نرم‌افزار، اندروید، وب، هوش مصنوعی و امنیت اپلیکیشن تمرکز دارد.
-
-**عمیق یاد بگیر. بی‌سروصدا بساز. مداوم بهتر شو.**
+> Don't just make it work. Understand why it works.
 
 ---
 
 <div align="center">
-<sub>Minimal noise. Meaningful work.</sub>
+
+**کم‌حرف، کنجکاو، متمرکز روی ساختن.**
+
+<sub>Learn deeply. Build quietly. Keep improving.</sub>
+
 </div>
