@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
+<title id="title">REZONIX</title>
+<desc id="desc">Dark cyber banner in black, violet, and red.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#08070d"/>
+    <stop offset="0.55" stop-color="#111020"/>
+    <stop offset="1" stop-color="#16080e"/>
+  </linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#8b5cf6"/>
+    <stop offset="1" stop-color="#ef4444"/>
+  </linearGradient>
+  <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+    <path d="M34 0H0V34" fill="none" stroke="#a78bfa" stroke-opacity=".12" stroke-width="1"/>
+  </pattern>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="5" result="blur"/>
+    <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<rect width="1200" height="360" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="360" rx="22" fill="url(#grid)"/>
+<path d="M0 285H310L360 235H530M770 0V65L820 115H1200" fill="none" stroke="url(#line)" stroke-width="2" stroke-opacity=".6"/>
+<path d="M0 310H260L300 270H420M900 360V300L960 240H1200" fill="none" stroke="#8b5cf6" stroke-width="1" stroke-opacity=".45"/>
+<g transform="translate(860 180)" fill="none" stroke="url(#line)" stroke-width="3" filter="url(#glow)">
+  <path d="M0 -96L83 -48V48L0 96L-83 48V-48Z"/>
+  <path d="M0 -65L55 -33V33L0 65L-55 33V-33Z" stroke-opacity=".8"/>
+  <path d="M-28 12L-2 -26L26 12M-16 -4H14" stroke-linecap="square"/>
+  <circle cx="0" cy="0" r="9" fill="#ef4444" stroke="none"/>
+</g>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+  <text x="78" y="146" fill="#f5f3ff" font-size="64" font-weight="800" letter-spacing="7">REZONIX</text>
+  <rect x="80" y="170" width="360" height="4" rx="2" fill="url(#line)"/>
+  <text x="80" y="215" fill="#c4b5fd" font-size="21" letter-spacing="2">SOFTWARE  /  SECURITY  /  EXPERIMENTS</text>
+  <text x="80" y="255" fill="#9ca3af" font-size="18">Build • Learn • Understand</text>
+</g>
+<g fill="#ef4444">
+  <circle cx="1100" cy="54" r="3"/><circle cx="1120" cy="54" r="3"/><circle cx="1140" cy="54" r="3"/>
+</g>
+</svg>
