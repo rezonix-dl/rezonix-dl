@@ -121,7 +121,7 @@ I learn by experimenting, building projects, reading documentation, and improvin
 
 ### ارتباط
 
-- گیت‌هاب: `https://github.com/YOUR_GITHUB_USERNAME`
+- گیت‌هاب: `https://github.com/rezonix-dl`
 - وب‌سایت شخصی: **لینک سایت فعال خودت را وارد کن**
 - ایمیل: **فقط در صورت تمایل، ایمیل عمومی اضافه کن**
 
