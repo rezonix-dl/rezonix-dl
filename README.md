@@ -31,7 +31,6 @@ I explore software development, Android, web technologies, AI, and application s
 
 <div align="center">
 
-**کم‌حرف، کنجکاو، متمرکز روی ساختن.**
 
 <sub>Learn deeply. Build quietly. Keep improving.</sub>
 
